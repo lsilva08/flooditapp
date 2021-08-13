@@ -1,16 +1,23 @@
-Flood.it android game
+# Flood.it Android App
 
-by Lucas Costa Silva s5218051
+Full flood it game by Lucas Costa Silva s5218051
 
-Part 1 extensions:
 
---Logic for various different grid sizes and colours.
+## Part 1 extensions:
 
-Part 2 extensions:
+- Logic for various different grid sizes and colours.
 
---Highscores UI button but not yet implemented
+## Part 2 extensions:
 
---Spinner items with grid sizes and amount of colours in a grid following logic set in Part 1.
+- Highscores UI button but not yet implemented
 
---Text View items showing input from both grid and colour spinner items.
+- Spinner items with grid sizes and amount of colours in a grid following logic set in Part 1.
 
+- Text View items showing input from both grid and colour spinner items.
+
+  
+## Github repo link
+
+[flooditapp](https://github.com/lsilva08/flooditapp)
+
+  
